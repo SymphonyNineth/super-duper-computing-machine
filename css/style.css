@@ -9833,12 +9833,13 @@ textarea.form-control {
   display: block;
 }
 .block-7 .price sup {
-  font-size: 20px;
+  font-size: 1.25rem;
   top: -1em;
   color: #000;
 }
 .block-7 .price .number {
-  font-size: 50px;
+  line-height: 1;
+  font-size: 2rem;
   font-weight: 500;
   background: rgb(18, 230, 202);
   background: -webkit-gradient(left bottom, right top, color-stop(0%, rgb(18, 230, 202)), color-stop(100%, rgb(139, 229, 93)));

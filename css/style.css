@@ -9932,6 +9932,10 @@ textarea.form-control {
   padding-left: 30px;
 }
 
+.plan-title {
+  font-size: 1.5rem;
+}
+
 .block-4 .nonloop .owl-stage {
   padding-bottom: 2em;
 }

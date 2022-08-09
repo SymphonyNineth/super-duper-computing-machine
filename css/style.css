@@ -9933,7 +9933,7 @@ textarea.form-control {
 }
 
 .plan-title {
-  font-size: 1.5rem;
+  font-size: 1.5rem !important;
 }
 
 .block-4 .nonloop .owl-stage {

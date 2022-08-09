@@ -2064,13 +2064,16 @@ textarea.form-control {
       top: -1em;
       color: $black;
     }
-    .number {
+    .tag {
       line-height: 1;
       font-size: 2rem;
       font-weight: 500;
       @include gradient-background-two();
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
+      &-text {
+        font-size: 1.5rem;
+      }
     }
   }
   .excerpt {

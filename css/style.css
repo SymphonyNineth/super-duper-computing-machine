@@ -9837,7 +9837,7 @@ textarea.form-control {
   top: -1em;
   color: #000;
 }
-.block-7 .price .number {
+.block-7 .price .tag {
   line-height: 1;
   font-size: 2rem;
   font-weight: 500;
@@ -9847,6 +9847,9 @@ textarea.form-control {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#12e6ca", endColorstr="#8be55d", GradientType=1 );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+.block-7 .price .tag-text {
+  font-size: 1.5rem;
 }
 .block-7 .excerpt {
   margin-bottom: 20px;

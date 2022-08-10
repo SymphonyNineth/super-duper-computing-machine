@@ -9932,6 +9932,10 @@ textarea.form-control {
   padding-left: 30px;
 }
 
+.mh-441 {
+  min-height: 441px;
+}
+
 .plan-title {
   font-size: 1.5rem !important;
 }

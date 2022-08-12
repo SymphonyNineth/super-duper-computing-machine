@@ -9940,6 +9940,46 @@ textarea.form-control {
   font-size: 1.5rem !important;
 }
 
+.price-block {
+  position: relative;
+}
+
+.book-btn {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  bottom: 20px;
+  width: 12rem;
+}
+
+.step {
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.09);
+  width: 250px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.step-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.step-header {
+  color: #fff;
+  border-radius: 10px;
+  font-size: 1.2rem;
+  font-weight: 700;
+  padding: 0.5rem 0;
+  background: linear-gradient(45deg, rgb(18, 230, 202) 0%, rgb(139, 229, 93) 100%);
+}
+.step-body {
+  padding: 1.5rem;
+  font-size: 1.1rem;
+}
+
 .block-4 .nonloop .owl-stage {
   padding-bottom: 2em;
 }
@@ -10362,5 +10402,18 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  .step-container {
+    display: grid;
+    gap: 2rem;
+    align-content: center;
+    grid-template-columns: 2fr 2fr;
+  }
+}
+@media only screen and (max-width: 730px) {
+  .step-container {
+    grid-template-columns: 1fr;
   }
 }/*# sourceMappingURL=style.css.map */

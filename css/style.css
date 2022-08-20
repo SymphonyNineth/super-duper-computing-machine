@@ -7960,6 +7960,10 @@ h3 {
     border: 1px solid #dee2e6 !important;
   }
 }
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: "Work Sans", Arial, sans-serif;
   background: #fff;

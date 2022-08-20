@@ -135,6 +135,7 @@ $secondary: #2f89fc;
 
 html {
   // overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 body {
   font-family: $font-primary;

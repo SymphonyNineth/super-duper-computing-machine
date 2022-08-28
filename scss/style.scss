@@ -1221,7 +1221,11 @@ textarea.form-control {
 .bg-primary {
   background: $primary !important;
 }
-
+.highfive-img,
+.img-container {
+  max-height: 100%;
+  max-width: 100%;
+}
 //ABOUT
 .media-custom {
   background: $white;

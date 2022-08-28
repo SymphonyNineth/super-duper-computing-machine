@@ -9068,6 +9068,12 @@ textarea.form-control {
   background: #627bed !important;
 }
 
+.highfive-img,
+.img-container {
+  max-height: 100%;
+  max-width: 100%;
+}
+
 .media-custom {
   background: #fff;
 }

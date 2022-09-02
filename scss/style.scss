@@ -962,6 +962,22 @@ h5,
   }
 }
 
+.book-container{
+  max-width: 50%;
+  text-align: center;  
+}
+.book-ctn {
+  background-color: #ffc107 !important;
+  transition: all 0.3s ease-in !important;
+  border: none !important;
+  color: #fff !important;
+  font-weight: 700 !important;
+
+  &:hover{
+    background-color: #ff9900 !important;
+  }
+} 
+
 .services-img {
   position: relative;
   z-index: 0;

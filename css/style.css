@@ -8025,7 +8025,7 @@ h5,
     padding: 10px 0;
   }
 }
-@media (max-width: 991.98px) {
+@media (max-width: 1199.98px) {
   .ftco-navbar-light {
     background: #000 !important;
     position: relative;
@@ -8035,7 +8035,7 @@ h5,
 .ftco-navbar-light .navbar-brand {
   color: #fff;
 }
-@media (max-width: 991.98px) {
+@media (max-width: 1199.98px) {
   .ftco-navbar-light .navbar-nav {
     padding-bottom: 20px;
   }
@@ -8143,7 +8143,7 @@ h5,
 .ftco-navbar-light.scrolled .nav-item.cta.cta-colored span {
   border-color: #627bed;
 }
-@media (max-width: 991.98px) {
+@media (max-width: 1199.98px) {
   .ftco-navbar-light.scrolled .navbar-nav {
     background: none;
     border-radius: 0px;
@@ -8151,7 +8151,7 @@ h5,
     padding-right: 0rem !important;
   }
 }
-@media (max-width: 767.98px) {
+@media (max-width: 1199.98px) {
   .ftco-navbar-light.scrolled .navbar-nav {
     background: none;
     padding-left: 0 !important;
@@ -8299,7 +8299,7 @@ h5,
   color: #fff;
   height: 750px;
 }
-@media (max-width: 767.98px) {
+@media (max-width: 1199.98px) {
   .owl-carousel.home-slider .slider-item .slider-text {
     text-align: center;
   }
@@ -8318,7 +8318,7 @@ h5,
   line-height: 1.2;
   font-weight: 500;
 }
-@media (max-width: 991.98px) {
+@media (max-width: 1199.98px) {
   .owl-carousel.home-slider .slider-item .slider-text h1 {
     font-size: 30px;
   }
@@ -8402,7 +8402,7 @@ h5,
   width: 100%;
   text-align: center;
 }
-@media (max-width: 767.98px) {
+@media (max-width: 1199.98px) {
   .owl-carousel.home-slider .owl-dots {
     bottom: 5px;
   }
@@ -8532,7 +8532,7 @@ h5,
 .domain-form .domain-name {
   width: calc(100% - 300px);
 }
-@media (max-width: 767.98px) {
+@media (max-width: 1199.98px) {
   .domain-form .domain-name {
     width: 100%;
   }
@@ -8540,7 +8540,7 @@ h5,
 .domain-form .domain-select {
   width: 300px;
 }
-@media (max-width: 767.98px) {
+@media (max-width: 1199.98px) {
   .domain-form .domain-select {
     width: 100%;
   }
@@ -8616,7 +8616,7 @@ h5,
 .domain-form .search-domain {
   width: calc(100% - 120px);
 }
-@media (max-width: 991.98px) {
+@media (max-width: 1199.98px) {
   .domain-form .search-domain {
     width: calc(100% - 80px);
   }
@@ -8629,7 +8629,7 @@ h5,
   transform: translateY(-50%);
   color: #000;
 }
-@media (max-width: 767.98px) {
+@media (max-width: 1199.98px) {
   .domain-form .icon {
     right: 15px;
   }
@@ -8671,7 +8671,7 @@ h5,
   border: 1px solid transparent !important;
   border-bottom: 1px solid #f0f0f0 !important;
 }
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   .table tbody tr td:nth-child(odd) {
     background: #fcfcfc;
   }
@@ -8815,7 +8815,7 @@ h5,
   position: relative;
   z-index: 0;
 }
-@media (max-width: 991.98px) {
+@media (max-width: 1199.98px) {
   .services-img {
     height: 500px;
   }
@@ -8886,7 +8886,7 @@ h5,
   display: block;
   padding: 0 20px;
 }
-@media (max-width: 991.98px) {
+@media (max-width: 1199.98px) {
   .ftco-partner .partner {
     padding: 0;
   }
@@ -8910,7 +8910,7 @@ h5,
   font-weight: 400 !important;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   .block-3 {
     margin-bottom: 7em;
   }
@@ -8921,7 +8921,7 @@ h5,
   padding: 10% 7%;
   display: block;
 }
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   .block-3 .text,
 .block-3 .image {
     width: 50%;
@@ -8967,7 +8967,7 @@ h5,
   content: "";
   box-shadow: -20px 20px 0 0 #d4dbfa;
 }
-@media (max-width: 767.98px) {
+@media (max-width: 1199.98px) {
   .block-3 .image {
     height: 300px;
   }
@@ -8985,7 +8985,7 @@ h5,
   width: 360%;
   background: #90a1f2;
 }
-@media (max-width: 767.98px) {
+@media (max-width: 1199.98px) {
   .aside-stretch {
     background: transparent;
   }
@@ -9041,7 +9041,7 @@ textarea.form-control {
   margin: 0;
   display: inline-block !important;
 }
-@media (max-width: 767.98px) {
+@media (max-width: 1199.98px) {
   .ftco-tab-nav {
     display: block !important;
     margin-bottom: 10px;
@@ -9053,7 +9053,7 @@ textarea.form-control {
   margin: 0 5px;
   display: inline-block !important;
 }
-@media (max-width: 767.98px) {
+@media (max-width: 1199.98px) {
   .ftco-tab-nav li {
     display: block !important;
     margin-bottom: 10px;
@@ -9114,7 +9114,7 @@ textarea.form-control {
   padding: 6em 0;
   position: relative;
 }
-@media (max-width: 767.98px) {
+@media (max-width: 1199.98px) {
   .ftco-section {
     padding: 6em 0;
   }
@@ -9256,7 +9256,7 @@ textarea.form-control {
   height: 400px;
   width: 100%;
 }
-@media (max-width: 991.98px) {
+@media (max-width: 1199.98px) {
   #map {
     height: 300px;
   }
@@ -9297,7 +9297,7 @@ textarea.form-control {
   font-weight: 400;
   color: #627bed;
 }
-@media (max-width: 767.98px) {
+@media (max-width: 1199.98px) {
   .heading-section h2 {
     font-size: 30px;
   }
@@ -9309,7 +9309,7 @@ textarea.form-control {
   font-size: 40px;
   color: #fff;
 }
-@media (max-width: 767.98px) {
+@media (max-width: 1199.98px) {
   .heading-section.heading-section-white h2 {
     font-size: 30px;
   }
@@ -9440,7 +9440,7 @@ textarea.form-control {
   font-size: 13px;
 }
 
-@media (max-width: 767.98px) {
+@media (max-width: 1199.98px) {
   .about-image {
     height: 400px;
     margin-bottom: 30px;
@@ -9480,12 +9480,12 @@ textarea.form-control {
 .ftco-section .nav-pills .nav-link.active:after, .ftco-section .nav-pills .nav-link:hover:after {
   opacity: 1;
 }
-@media (max-width: 767.98px) {
+@media (max-width: 1199.98px) {
   .ftco-section .nav-pills .nav-link.active:after, .ftco-section .nav-pills .nav-link:hover:after {
     opacity: 0;
   }
 }
-@media (max-width: 767.98px) {
+@media (max-width: 1199.98px) {
   .ftco-section .nav-pills .nav-link {
     display: block;
     width: 100%;
@@ -9501,12 +9501,12 @@ textarea.form-control {
 .ftco-section .tab-content .tab-pane .one-forth img {
   box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.03);
 }
-@media (max-width: 767.98px) {
+@media (max-width: 1199.98px) {
   .ftco-section .tab-content .tab-pane .one-forth img {
     margin-bottom: 20px;
   }
 }
-@media (max-width: 767.98px) {
+@media (max-width: 1199.98px) {
   .ftco-section .tab-content .tab-pane .one-forth {
     width: 100%;
   }
@@ -9514,7 +9514,7 @@ textarea.form-control {
 .ftco-section .tab-content .tab-pane .one-half {
   width: 50%;
 }
-@media (max-width: 767.98px) {
+@media (max-width: 1199.98px) {
   .ftco-section .tab-content .tab-pane .one-half {
     width: 100%;
   }
@@ -9566,7 +9566,7 @@ textarea.form-control {
 .ftco-counter {
   padding: 5em 0;
 }
-@media (max-width: 991.98px) {
+@media (max-width: 1199.98px) {
   .ftco-counter {
     background-position: center center !important;
   }
@@ -9580,7 +9580,7 @@ textarea.form-control {
   font-size: 16px;
   color: rgba(255, 255, 255, 0.7);
 }
-@media (max-width: 767.98px) {
+@media (max-width: 1199.98px) {
   .ftco-counter .counter-wrap {
     margin-bottom: 20px;
   }
@@ -9607,12 +9607,12 @@ textarea.form-control {
   display: block;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   .blog-entry {
     margin-bottom: 30px;
   }
 }
-@media (max-width: 767.98px) {
+@media (max-width: 1199.98px) {
   .blog-entry {
     margin-bottom: 30px;
   }
@@ -9691,6 +9691,16 @@ textarea.form-control {
   font-size: 16px;
 }
 
+@media screen and (max-width: 600px) {
+  #about-section .container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  #about-section .container > div {
+    margin-right: 0 !important;
+  }
+}
 .block-10 .chef-img {
   height: 400px;
 }
@@ -9713,7 +9723,7 @@ textarea.form-control {
   width: 100%;
   position: relative;
 }
-@media (max-width: 991.98px) {
+@media (max-width: 1199.98px) {
   .block-17 form .fields {
     width: 100%;
   }
@@ -9722,7 +9732,7 @@ textarea.form-control {
   width: 100% !important;
   margin-bottom: 10px;
 }
-@media (max-width: 991.98px) {
+@media (max-width: 1199.98px) {
   .block-17 form .fields .one-third {
     width: 100%;
     border-right: none;
@@ -9772,7 +9782,7 @@ textarea.form-control {
   transform: translateY(-50%);
   color: rgba(0, 0, 0, 0.7);
 }
-@media (max-width: 767.98px) {
+@media (max-width: 1199.98px) {
   .block-17 form .fields .icon {
     right: 10px;
   }
@@ -9844,7 +9854,7 @@ textarea.form-control {
   box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.03);
   background: #fff;
 }
-@media (max-width: 991.98px) {
+@media (max-width: 1199.98px) {
   .block-7 {
     margin-bottom: 30px;
   }

@@ -194,7 +194,7 @@ h5,
   @include media-breakpoint-up(lg) {
     padding: 10px 0;
   }
-  @include media-breakpoint-down(md) {
+  @include media-breakpoint-down(lg) {
     background: $black !important;
     position: relative;
     top: 0;
@@ -205,7 +205,7 @@ h5,
   }
 
   .navbar-nav {
-    @include media-breakpoint-down(md) {
+    @include media-breakpoint-down(lg) {
       padding-bottom: 20px;
     }
     > .nav-item {
@@ -327,7 +327,7 @@ h5,
     }
 
     .navbar-nav {
-      @include media-breakpoint-down(md) {
+      @include media-breakpoint-down(lg) {
         background: none;
         border-radius: 0px;
         padding-left: 0rem !important;
@@ -336,7 +336,7 @@ h5,
     }
 
     .navbar-nav {
-      @include media-breakpoint-down(sm) {
+      @include media-breakpoint-down(lg) {
         background: none;
         padding-left: 0 !important;
         padding-right: 0 !important;
@@ -484,7 +484,7 @@ h5,
       .slider-text {
         color: $white;
         height: 750px;
-        @include media-breakpoint-down(sm) {
+        @include media-breakpoint-down(lg) {
           text-align: center;
         }
         .wrap {
@@ -498,7 +498,7 @@ h5,
           color: $white;
           line-height: 1.2;
           font-weight: 500;
-          @include media-breakpoint-down(md) {
+          @include media-breakpoint-down(lg) {
             font-size: 30px;
           }
         }
@@ -585,7 +585,7 @@ h5,
       bottom: 40px;
       width: 100%;
       text-align: center;
-      @include media-breakpoint-down(sm) {
+      @include media-breakpoint-down(lg) {
         bottom: 5px;
       }
       .owl-dot {
@@ -719,13 +719,13 @@ h5,
   display: block;
   .domain-name {
     width: calc(100% - 300px);
-    @include media-breakpoint-down(sm) {
+    @include media-breakpoint-down(lg) {
       width: 100%;
     }
   }
   .domain-select {
     width: 300px;
-    @include media-breakpoint-down(sm) {
+    @include media-breakpoint-down(lg) {
       width: 100%;
     }
   }
@@ -785,7 +785,7 @@ h5,
   }
   .search-domain {
     width: calc(100% - 120px);
-    @include media-breakpoint-down(md) {
+    @include media-breakpoint-down(lg) {
       width: calc(100% - 80px);
     }
   }
@@ -796,7 +796,7 @@ h5,
     font-size: 14px;
     transform: translateY(-50%);
     color: $black;
-    @include media-breakpoint-down(sm) {
+    @include media-breakpoint-down(lg) {
       right: 15px;
     }
   }
@@ -838,7 +838,7 @@ h5,
         color: $black;
         border: 1px solid transparent !important;
         border-bottom: 1px solid lighten($black, 94%) !important;
-        @include media-breakpoint-up(md) {
+        @include media-breakpoint-up(lg) {
           &:nth-child(odd) {
             background: lighten($black, 99%);
           }
@@ -985,7 +985,7 @@ h5,
 .services-img {
   position: relative;
   z-index: 0;
-  @include media-breakpoint-down(md) {
+  @include media-breakpoint-down(lg) {
     height: 500px;
   }
   &:after {
@@ -1049,7 +1049,7 @@ h5,
   .partner {
     display: block;
     padding: 0 20px;
-    @include media-breakpoint-down(md) {
+    @include media-breakpoint-down(lg) {
       padding: 0;
     }
   }
@@ -1075,7 +1075,7 @@ h5,
 
 //### .block-3
 .block-3 {
-  @include media-breakpoint-up(md) {
+  @include media-breakpoint-up(lg) {
     margin-bottom: 7em;
   }
   .text,
@@ -1083,7 +1083,7 @@ h5,
     width: 100%;
     padding: 10% 7%;
     display: block;
-    @include media-breakpoint-up(md) {
+    @include media-breakpoint-up(lg) {
       width: 50%;
       padding: 10% 7%;
     }
@@ -1132,7 +1132,7 @@ h5,
         box-shadow: -20px 20px 0 0 lighten($primary, 25%);
       }
     }
-    @include media-breakpoint-down(sm) {
+    @include media-breakpoint-down(lg) {
       height: 300px;
     }
   }
@@ -1151,7 +1151,7 @@ h5,
     background: lighten($primary, 10%);
     // background: #333644;
   }
-  @include media-breakpoint-down(sm) {
+  @include media-breakpoint-down(lg) {
     background: transparent;
     &:after {
       background: transparent;
@@ -1199,7 +1199,7 @@ textarea.form-control {
   padding: 0;
   margin: 0;
   display: inline-block !important;
-  @include media-breakpoint-down(sm) {
+  @include media-breakpoint-down(lg) {
     display: block !important;
     margin-bottom: 10px;
     width: 100% !important;
@@ -1208,7 +1208,7 @@ textarea.form-control {
     padding: 0;
     margin: 0 5px;
     display: inline-block !important;
-    @include media-breakpoint-down(sm) {
+    @include media-breakpoint-down(lg) {
       display: block !important;
       margin-bottom: 10px;
       width: 100% !important;
@@ -1278,7 +1278,7 @@ textarea.form-control {
 .ftco-section {
   padding: 6em 0;
   position: relative;
-  @include media-breakpoint-down(sm) {
+  @include media-breakpoint-down(lg) {
     padding: 6em 0;
   }
 }
@@ -1433,7 +1433,7 @@ textarea.form-control {
 #map {
   height: 400px;
   width: 100%;
-  @include media-breakpoint-down(md) {
+  @include media-breakpoint-down(lg) {
     height: 300px;
   }
 }
@@ -1477,7 +1477,7 @@ textarea.form-control {
     font-size: 30px;
     font-weight: 400;
     color: $primary;
-    @include media-breakpoint-down(sm) {
+    @include media-breakpoint-down(lg) {
       font-size: 30px;
     }
   }
@@ -1488,7 +1488,7 @@ textarea.form-control {
     h2 {
       font-size: 40px;
       color: $white;
-      @include media-breakpoint-down(sm) {
+      @include media-breakpoint-down(lg) {
         font-size: 30px;
       }
     }
@@ -1624,7 +1624,7 @@ textarea.form-control {
 }
 
 .about-image {
-  @include media-breakpoint-down(sm) {
+  @include media-breakpoint-down(lg) {
     height: 400px;
     margin-bottom: 30px;
   }
@@ -1662,13 +1662,13 @@ textarea.form-control {
         &:after {
           opacity: 1;
         }
-        @include media-breakpoint-down(sm) {
+        @include media-breakpoint-down(lg) {
           &:after {
             opacity: 0;
           }
         }
       }
-      @include media-breakpoint-down(sm) {
+      @include media-breakpoint-down(lg) {
         display: block;
         width: 100%;
         margin-bottom: 5px;
@@ -1686,17 +1686,17 @@ textarea.form-control {
           -webkit-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.03);
           -moz-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.03);
           box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.03);
-          @include media-breakpoint-down(sm) {
+          @include media-breakpoint-down(lg) {
             margin-bottom: 20px;
           }
         }
-        @include media-breakpoint-down(sm) {
+        @include media-breakpoint-down(lg) {
           width: 100%;
         }
       }
       .one-half {
         width: 50%;
-        @include media-breakpoint-down(sm) {
+        @include media-breakpoint-down(lg) {
           width: 100%;
         }
       }
@@ -1750,7 +1750,7 @@ textarea.form-control {
 }
 .ftco-counter {
   padding: 5em 0;
-  @include media-breakpoint-down(md) {
+  @include media-breakpoint-down(lg) {
     background-position: center center !important;
   }
   .icon {
@@ -1769,7 +1769,7 @@ textarea.form-control {
     }
   }
   .counter-wrap {
-    @include media-breakpoint-down(sm) {
+    @include media-breakpoint-down(lg) {
       margin-bottom: 20px;
     }
   }
@@ -1797,10 +1797,10 @@ textarea.form-control {
   display: block;
 }
 .blog-entry {
-  @include media-breakpoint-up(md) {
+  @include media-breakpoint-up(lg) {
     margin-bottom: 30px;
   }
-  @include media-breakpoint-down(sm) {
+  @include media-breakpoint-down(lg) {
     margin-bottom: 30px;
   }
   .text {
@@ -1894,6 +1894,18 @@ textarea.form-control {
   }
 }
 
+@media screen and (max-width: 600px) {
+  #about-section .container{
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    & > div {
+      margin-right: 0 !important;
+    }
+  }
+
+}
+
 //### .block-10
 .block-10 {
   .chef-img {
@@ -1921,13 +1933,13 @@ textarea.form-control {
       // width: calc(100% - 140px);
       width: 100%;
       position: relative;
-      @include media-breakpoint-down(md) {
+      @include media-breakpoint-down(lg) {
         width: 100%;
       }
       .one-third {
         width: 100% !important;
         margin-bottom: 10px;
-        @include media-breakpoint-down(md) {
+        @include media-breakpoint-down(lg) {
           width: 100%;
           border-right: none;
           padding-left: 0;
@@ -1978,7 +1990,7 @@ textarea.form-control {
         font-size: 14px;
         transform: translateY(-50%);
         color: rgba($black, 0.7);
-        @include media-breakpoint-down(sm) {
+        @include media-breakpoint-down(lg) {
           right: 10px;
         }
       }
@@ -2070,7 +2082,7 @@ textarea.form-control {
   -moz-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.03);
   box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.03);
   background: $white;
-  @include media-breakpoint-down(md) {
+  @include media-breakpoint-down(lg) {
     margin-bottom: 30px;
   }
   .heading {

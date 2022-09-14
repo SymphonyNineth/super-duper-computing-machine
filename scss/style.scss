@@ -3,7 +3,7 @@
 
 $font-primary: "Work Sans", Arial, sans-serif;
 
-.why-us-section{
+.why-us-section {
   margin-top: 80px;
 }
 
@@ -966,9 +966,9 @@ h5,
   }
 }
 
-.book-container{
+.book-container {
   max-width: 50%;
-  text-align: center;  
+  text-align: center;
 }
 .book-ctn {
   background-color: #ffc107 !important;
@@ -977,10 +977,10 @@ h5,
   color: #fff !important;
   font-weight: 700 !important;
 
-  &:hover{
+  &:hover {
     background-color: #ff9900 !important;
   }
-} 
+}
 
 .services-img {
   position: relative;
@@ -1895,7 +1895,7 @@ textarea.form-control {
 }
 
 @media screen and (max-width: 600px) {
-  #about-section .container{
+  #about-section .container {
     flex-direction: column;
     align-items: center;
     text-align: center;
@@ -1903,7 +1903,6 @@ textarea.form-control {
       margin-right: 0 !important;
     }
   }
-
 }
 
 //### .block-10
@@ -2699,5 +2698,26 @@ textarea.form-control {
 @media only screen and (max-width: 730px) {
   .step-container {
     grid-template-columns: 1fr;
+  }
+}
+
+.slider-button {
+  transition: all 0.3s ease-out;
+  &:hover {
+    color: white !important;
+    transform: scale(1.1);
+  }
+}
+.nav-item {
+  transition: all 0.3s ease-out;
+  &:hover {
+    transform: scale(1.1);
+  }
+}
+
+.btn-primary {
+  transition: all 0.3s ease-out;
+  &:hover {
+    transform: scale(1.1);
   }
 }

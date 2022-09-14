@@ -10455,4 +10455,25 @@ textarea.form-control {
   .step-container {
     grid-template-columns: 1fr;
   }
+}
+.slider-button {
+  transition: all 0.3s ease-out;
+}
+.slider-button:hover {
+  color: white !important;
+  transform: scale(1.1);
+}
+
+.nav-item {
+  transition: all 0.3s ease-out;
+}
+.nav-item:hover {
+  transform: scale(1.1);
+}
+
+.btn-primary {
+  transition: all 0.3s ease-out;
+}
+.btn-primary:hover {
+  transform: scale(1.1);
 }/*# sourceMappingURL=style.css.map */

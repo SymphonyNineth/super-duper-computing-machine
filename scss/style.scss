@@ -388,6 +388,7 @@ h5,
 .owl-carousel {
   position: relative;
   .owl-item {
+    touch-action: auto !important;
     opacity: 0.4;
     &.active {
       opacity: 1;

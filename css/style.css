@@ -8202,6 +8202,7 @@ h5,
   position: relative;
 }
 .owl-carousel .owl-item {
+  touch-action: auto !important;
   opacity: 0.4;
 }
 .owl-carousel .owl-item.active {
